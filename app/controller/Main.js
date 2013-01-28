@@ -9,4 +9,4 @@ Ext.define('GeoReminder.controller.Main',{
 			}
 		}
 	}
-}
+});
